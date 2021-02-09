@@ -1,6 +1,10 @@
 ## v2.0.5 [unreleased]
 ----------------------
 
+### Bug Fixes
+
+1. [20705](https://github.com/influxdata/influxdb/pull/20705): Repair swagger to match implementation of DBRPs type.
+
 ## v2.0.4 [2021-02-08]
 ----------------------
 
