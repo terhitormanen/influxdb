@@ -1,6 +1,10 @@
 ## v2.0.5 [unreleased]
 ----------------------
 
+### Features
+
+1. [20621](https://github.com/influxdata/influxdb/pull/20621): Add Swift client library to the data loading section of the UI
+
 ## v2.0.4 [2021-02-08]
 ----------------------
 
