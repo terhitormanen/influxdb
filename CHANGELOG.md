@@ -1,6 +1,10 @@
 ## v2.0.5 [unreleased]
 ----------------------
 
+### Features
+
+1. [20307](https://github.com/influxdata/influxdb/pull/20307): Add `influx task retry-failed` command to rerun failed runs.
+
 ## v2.0.4 [2021-02-08]
 ----------------------
 
