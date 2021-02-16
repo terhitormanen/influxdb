@@ -1,6 +1,10 @@
 ## v2.0.5 [unreleased]
 ----------------------
 
+### Bug Fixes
+
+1. [20754](https://github.com/influxdata/influxdb/pull/20754): Update references to docs site to use current URLs.
+
 ## v2.0.4 [2021-02-08]
 ----------------------
 
