@@ -1,6 +1,10 @@
 ## v2.0.5 [unreleased]
 ----------------------
 
+### Bug Fixes
+
+1. [20773](https://github.com/influxdata/influxdb/pull/20773): Fix data race in TSM engine when inspecting tombstone stats.
+
 ## v2.0.4 [2021-02-08]
 ----------------------
 
