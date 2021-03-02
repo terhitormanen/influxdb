@@ -3,7 +3,7 @@
 
 ### Bug Fixes
 
-1. [20809](https://github.com/influxdata/influxdb/pull/20809): Fix InfluxDB port in Flux function UI examples. Thanks @sunjincheng121!
+1. [20834](https://github.com/influxdata/influxdb/pull/20834): Fix InfluxDB port in Flux function UI examples. Thanks @sunjincheng121!
 
 ## v2.0.4 [2021-02-08]
 ----------------------
