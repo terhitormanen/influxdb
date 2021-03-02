@@ -3,7 +3,7 @@
 
 ### Bug Fixes
 
-1. [20754](https://github.com/influxdata/influxdb/pull/20754): Update references to docs site to use current URLs.
+1. [20841](https://github.com/influxdata/influxdb/pull/20841): Update references to docs site to use current URLs.
 
 ## v2.0.4 [2021-02-08]
 ----------------------
