@@ -2,7 +2,8 @@
 ----------------------
 
 ### Bug Fixes
-1. [20819](https://github.com/influxdata/influxdb/pull/20819): Fix Single Stat graphs with thresholds crashing on negative values.
+
+1. [20833](https://github.com/influxdata/influxdb/pull/20833): Fix Single Stat graphs with thresholds crashing on negative values.
 
 ## v2.0.4 [2021-02-08]
 ----------------------
